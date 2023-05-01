@@ -1,0 +1,167 @@
+MAESTRA2 model
+
+cello
+./model/4/MAESTRA_cello_1.pt	Test Loss is: 0.00809 , Test Accuracy is 82.80 %
+./model/4/MAESTRA_cello_2.pt -	Test Loss is: 0.00459 , Test Accuracy is 90.35 %
+./model/4/MAESTRA_cello_3.pt	Test Loss is: 0.01031 , Test Accuracy is 80.75 %
+./model/4/MAESTRA_cello_4.pt	Test Loss is: 0.00674 , Test Accuracy is 88.86 %
+./model/4/MAESTRA_cello_5.pt	Test Loss is: 0.00805 , Test Accuracy is 88.70 %
+./model/4/MAESTRA_cello_6.pt	Test Loss is: 0.00829 , Test Accuracy is 88.16 %
+./model/4/MAESTRA_cello_7.pt	Test Loss is: 0.00757 , Test Accuracy is 88.41 %
+./model/4/MAESTRA_cello_8.pt	Test Loss is: 0.00914 , Test Accuracy is 87.74 %
+./model/4/MAESTRA_cello_9.pt	Test Loss is: 0.01107 , Test Accuracy is 84.27 %
+./model/4/MAESTRA_cello_10.pt	Test Loss is: 0.00740 , Test Accuracy is 88.19 %
+./model/4/MAESTRA_cello_11.pt	Test Loss is: 0.01125 , Test Accuracy is 86.77 %
+./model/4/MAESTRA_cello_12.pt	Test Loss is: 0.01167 , Test Accuracy is 87.80 %
+./model/4/MAESTRA_cello_13.pt	Test Loss is: 0.01302 , Test Accuracy is 86.21 %
+./model/4/MAESTRA_cello_14.pt	Test Loss is: 0.01661 , Test Accuracy is 85.62 %
+./model/4/MAESTRA_cello_15.pt	Test Loss is: 0.00990 , Test Accuracy is 88.07 %
+
+clarinet
+./model/3/MAESTRA_clarinet_1.pt 	Test Loss is: 0.00788 , Test Accuracy is 82.57 %
+./model/3/MAESTRA_clarinet_2.pt 	Test Loss is: 0.00946 , Test Accuracy is 82.53 %
+./model/3/MAESTRA_clarinet_3.pt 	Test Loss is: 0.00909 , Test Accuracy is 79.19 %
+./model/3/MAESTRA_clarinet_4.pt 	Test Loss is: 0.00949 , Test Accuracy is 82.66 %
+./model/3/MAESTRA_clarinet_5.pt 	Test Loss is: 0.01099 , Test Accuracy is 82.85 %
+./model/3/MAESTRA_clarinet_6.pt 	Test Loss is: 0.01045 , Test Accuracy is 82.33 %
+./model/3/MAESTRA_clarinet_7.pt 	Test Loss is: 0.01131 , Test Accuracy is 82.03 %
+./model/3/MAESTRA_clarinet_8.pt 	Test Loss is: 0.01297 , Test Accuracy is 80.50 %
+./model/3/MAESTRA_clarinet_9.pt -	Test Loss is: 0.01324 , Test Accuracy is 84.90 %
+./model/3/MAESTRA_clarinet_10.pt	Test Loss is: 0.01306 , Test Accuracy is 82.82 %
+./model/3/MAESTRA_clarinet_11.pt	Test Loss is: 0.01424 , Test Accuracy is 82.98 %
+./model/3/MAESTRA_clarinet_12.pt	Test Loss is: 0.01463 , Test Accuracy is 78.22 %
+./model/3/MAESTRA_clarinet_13.pt	Test Loss is: 0.01697 , Test Accuracy is 81.29 %
+./model/3/MAESTRA_clarinet_14.pt	Test Loss is: 0.01755 , Test Accuracy is 80.64 %
+./model/3/MAESTRA_clarinet_15.pt	Test Loss is: 0.02492 , Test Accuracy is 82.73 %
+
+./model/4/MAESTRA_clarinet_1.pt		Test Loss is: 0.00700 , Test Accuracy is 83.95 %
+./model/4/MAESTRA_clarinet_2.pt		Test Loss is: 0.00730 , Test Accuracy is 83.75 %
+./model/4/MAESTRA_clarinet_3.pt		Test Loss is: 0.01062 , Test Accuracy is 83.45 %
+./model/4/MAESTRA_clarinet_4.pt		Test Loss is: 0.00942 , Test Accuracy is 81.47 %
+./model/4/MAESTRA_clarinet_5.pt		Test Loss is: 0.01177 , Test Accuracy is 80.50 %
+./model/4/MAESTRA_clarinet_6.pt		Test Loss is: 0.00985 , Test Accuracy is 83.55 %
+./model/4/MAESTRA_clarinet_7.pt		Test Loss is: 0.01128 , Test Accuracy is 84.06 %
+./model/4/MAESTRA_clarinet_8.pt		Test Loss is: 0.01182 , Test Accuracy is 83.23 %
+./model/4/MAESTRA_clarinet_9.pt	-	Test Loss is: 0.01496 , Test Accuracy is 84.51 %
+./model/4/MAESTRA_clarinet_10.pt	Test Loss is: 0.01330 , Test Accuracy is 81.72 %
+
+drum
+
+Train_loss_list
+[0.0028, 0.00125, 0.00073, 0.00056, 0.0004, 0.0003, 0.00023, 0.00019, 0.00027, 1e-05]
+val_loss_list
+[0.00326, 0.0029, 0.00333, 0.00353, 0.00277, 0.00343, 0.00257, 0.00521, 0.00321, 0.00361]
+accuracy_list
+[97.80399, 97.6588, 97.36842, 97.71325, 98.11252, 97.85844, 97.78584, 96.35209, 97.98548, 98.27586]
+
+./model/4/MAESTRA_drum_1.pt
+Test Loss is: 0.00199 , Test Accuracy is 97.65 %
+./model/4/MAESTRA_drum_2.pt
+Test Loss is: 0.00151 , Test Accuracy is 97.48 %
+./model/4/MAESTRA_drum_3.pt
+Test Loss is: 0.00268 , Test Accuracy is 97.03 %
+./model/4/MAESTRA_drum_4.pt
+Test Loss is: 0.00206 , Test Accuracy is 97.86 %
+./model/4/MAESTRA_drum_5.pt - 
+Test Loss is: 0.00170 , Test Accuracy is 98.06 %
+./model/4/MAESTRA_drum_6.pt
+Test Loss is: 0.00232 , Test Accuracy is 97.70 %
+./model/4/MAESTRA_drum_7.pt
+Test Loss is: 0.00171 , Test Accuracy is 98.09 %
+./model/4/MAESTRA_drum_8.pt
+Test Loss is: 0.00389 , Test Accuracy is 95.81 %
+./model/4/MAESTRA_drum_9.pt
+Test Loss is: 0.00189 , Test Accuracy is 98.11 %
+./model/4/MAESTRA_drum_10.pt
+Test Loss is: 0.00274 , Test Accuracy is 98.02 %
+
+
+flute
+./model/4/MAESTRA_flute_1.pt
+Test Loss is: 0.01138 , Test Accuracy is 77.62 %
+./model/4/MAESTRA_flute_2.pt
+Test Loss is: 0.00790 , Test Accuracy is 81.96 %
+./model/4/MAESTRA_flute_3.pt
+Test Loss is: 0.01004 , Test Accuracy is 80.73 %
+./model/4/MAESTRA_flute_4.pt
+Test Loss is: 0.01172 , Test Accuracy is 83.63 %
+./model/4/MAESTRA_flute_5.pt
+Test Loss is: 0.01602 , Test Accuracy is 81.27 %
+./model/4/MAESTRA_flute_6.pt
+Test Loss is: 0.01463 , Test Accuracy is 81.47 %
+./model/4/MAESTRA_flute_7.pt
+Test Loss is: 0.01100 , Test Accuracy is 83.59 %
+./model/4/MAESTRA_flute_8.pt
+Test Loss is: 0.01258 , Test Accuracy is 83.41 %
+./model/4/MAESTRA_flute_9.pt
+Test Loss is: 0.01323 , Test Accuracy is 83.20 %
+./model/4/MAESTRA_flute_10.pt
+Test Loss is: 0.01401 , Test Accuracy is 80.61 %
+
+
+piano
+./model/3/MAESTRA_piano_1.pt -	Test Loss is: 0.00381 , Test Accuracy is 93.53 %
+./model/3/MAESTRA_piano_2.pt	Test Loss is: 0.00394 , Test Accuracy is 93.22 %
+./model/3/MAESTRA_piano_3.pt	Test Loss is: 0.00489 , Test Accuracy is 91.46 %
+./model/3/MAESTRA_piano_4.pt	Test Loss is: 0.00452 , Test Accuracy is 93.48 %
+./model/3/MAESTRA_piano_5.pt	Test Loss is: 0.00469 , Test Accuracy is 92.33 %
+./model/3/MAESTRA_piano_6.pt	Test Loss is: 0.00749 , Test Accuracy is 92.06 %
+./model/3/MAESTRA_piano_7.pt	Test Loss is: 0.00536 , Test Accuracy is 92.99 %
+./model/3/MAESTRA_piano_8.pt	Test Loss is: 0.00557 , Test Accuracy is 92.56 %
+./model/3/MAESTRA_piano_9.pt	Test Loss is: 0.00628 , Test Accuracy is 92.83 %
+./model/3/MAESTRA_piano_10.pt	Test Loss is: 0.00570 , Test Accuracy is 92.67 %
+./model/3/MAESTRA_piano_11.pt	Test Loss is: 0.00816 , Test Accuracy is 91.68 %
+./model/3/MAESTRA_piano_12.pt	Test Loss is: 0.00743 , Test Accuracy is 92.51 %
+./model/3/MAESTRA_piano_13.pt	Test Loss is: 0.01017 , Test Accuracy is 89.22 %
+./model/3/MAESTRA_piano_14.pt	Test Loss is: 0.00839 , Test Accuracy is 88.53 %
+./model/3/MAESTRA_piano_15.pt	Test Loss is: 0.00625 , Test Accuracy is 93.21 %
+
+viola
+./model/3/MAESTRA_viola_1.pt	Test Loss is: 0.00989 , Test Accuracy is 76.38 %
+./model/3/MAESTRA_viola_2.pt	Test Loss is: 0.01161 , Test Accuracy is 75.29 %
+./model/3/MAESTRA_viola_3.pt	Test Loss is: 0.01670 , Test Accuracy is 74.57 %
+./model/3/MAESTRA_viola_4.pt	Test Loss is: 0.01512 , Test Accuracy is 75.22 %
+./model/3/MAESTRA_viola_5.pt -	Test Loss is: 0.01694 , Test Accuracy is 77.91 %
+./model/3/MAESTRA_viola_6.pt	Test Loss is: 0.01858 , Test Accuracy is 76.33 %
+./model/3/MAESTRA_viola_7.pt	Test Loss is: 0.01906 , Test Accuracy is 76.62 %
+./model/3/MAESTRA_viola_8.pt	Test Loss is: 0.02369 , Test Accuracy is 74.03 %
+./model/3/MAESTRA_viola_9.pt	Test Loss is: 0.02768 , Test Accuracy is 74.98 %
+./model/3/MAESTRA_viola_10.pt	Test Loss is: 0.01380 , Test Accuracy is 75.88 %
+./model/3/MAESTRA_viola_11.pt	Test Loss is: 0.03867 , Test Accuracy is 74.62 %
+./model/3/MAESTRA_viola_12.pt	Test Loss is: 0.01941 , Test Accuracy is 77.10 %
+./model/3/MAESTRA_viola_13.pt	Test Loss is: 0.02409 , Test Accuracy is 76.04 %
+./model/3/MAESTRA_viola_14.pt	Test Loss is: 0.02400 , Test Accuracy is 75.74 %
+./model/3/MAESTRA_viola_15.pt	Test Loss is: 0.03298 , Test Accuracy is 76.60 %
+
+./model/4/MAESTRA_viola_1.pt	Test Loss is: 0.00942 , Test Accuracy is 76.01 %
+./model/4/MAESTRA_viola_2.pt	Test Loss is: 0.01192 , Test Accuracy is 75.13 %
+./model/4/MAESTRA_viola_3.pt	Test Loss is: 0.01233 , Test Accuracy is 77.50 %
+./model/4/MAESTRA_viola_4.pt	Test Loss is: 0.01727 , Test Accuracy is 74.30 %
+./model/4/MAESTRA_viola_5.pt	Test Loss is: 0.01174 , Test Accuracy is 79.08 %
+./model/4/MAESTRA_viola_6.pt -	Test Loss is: 0.01186 , Test Accuracy is 79.35 %
+./model/4/MAESTRA_viola_7.pt	Test Loss is: 0.01461 , Test Accuracy is 78.24 %
+./model/4/MAESTRA_viola_8.pt	Test Loss is: 0.01652 , Test Accuracy is 77.91 %
+./model/4/MAESTRA_viola_9.pt	Test Loss is: 0.01651 , Test Accuracy is 73.67 %
+./model/4/MAESTRA_viola_10.pt	Test Loss is: 0.01918 , Test Accuracy is 76.73 %
+./model/4/MAESTRA_viola_11.pt	Test Loss is: 0.02039 , Test Accuracy is 77.44 %
+./model/4/MAESTRA_viola_12.pt	Test Loss is: 0.01847 , Test Accuracy is 75.66 %
+./model/4/MAESTRA_viola_13.pt	Test Loss is: 0.01429 , Test Accuracy is 78.47 %
+./model/4/MAESTRA_viola_14.pt	Test Loss is: 0.01536 , Test Accuracy is 79.64 %
+./model/4/MAESTRA_viola_15.pt	Test Loss is: 0.02697 , Test Accuracy is 78.22 %
+
+violin
+./model/3/MAESTRA_violin_1.pt	Test Loss is: 0.00750 , Test Accuracy is 80.93 %
+./model/3/MAESTRA_violin_2.pt	Test Loss is: 0.00841 , Test Accuracy is 82.80 %
+./model/3/MAESTRA_violin_3.pt	Test Loss is: 0.00872 , Test Accuracy is 80.54 %
+./model/3/MAESTRA_violin_4.pt	Test Loss is: 0.00906 , Test Accuracy is 82.01 %
+./model/3/MAESTRA_violin_5.pt	Test Loss is: 0.00949 , Test Accuracy is 84.36 %
+./model/3/MAESTRA_violin_6.pt	Test Loss is: 0.01166 , Test Accuracy is 83.30 %
+./model/3/MAESTRA_violin_7.pt	Test Loss is: 0.01178 , Test Accuracy is 81.81 %
+./model/3/MAESTRA_violin_8.pt	Test Loss is: 0.01229 , Test Accuracy is 81.51 %
+./model/3/MAESTRA_violin_9.pt	Test Loss is: 0.01209 , Test Accuracy is 82.67 %
+./model/3/MAESTRA_violin_10.pt	Test Loss is: 0.01370 , Test Accuracy is 79.85 %
+./model/3/MAESTRA_violin_11.pt	Test Loss is: 0.01263 , Test Accuracy is 84.11 %
+./model/3/MAESTRA_violin_12.pt -	Test Loss is: 0.01139 , Test Accuracy is 84.44 %
+./model/3/MAESTRA_violin_13.pt	Test Loss is: 0.01499 , Test Accuracy is 81.79 %
+./model/3/MAESTRA_violin_14.pt	Test Loss is: 0.01454 , Test Accuracy is 82.84 %
+./model/3/MAESTRA_violin_15.pt	Test Loss is: 0.01876 , Test Accuracy is 80.73 %
